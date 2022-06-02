@@ -9,3 +9,9 @@
 - [[WWDC21] ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
 ## General 🖥
 ### 독서록
+- [객체지향의 사실과 오해](https://www.notion.so/99cfa573525e443199eac730d8c1c69f)
+- [실용주의 프로그래머](https://www.notion.so/8ee1da1f23e24487b56a999381613ce6)
+- [기초 논리학](https://www.notion.so/b3302f542c60425494f857c070c51b05)
+- [메모 습관의 힘](https://www.notion.so/b8aef76b1bc7459889357f20b21f90b7)
+- [조엘 온 소프트웨어](https://www.notion.so/cad5c42c5360401baf46fbce57e12c94)
+- [완벽한 공부법](https://www.notion.so/42dcd352ac84464892df313820daecc8)
