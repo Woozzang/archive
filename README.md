@@ -8,6 +8,10 @@
 - [[WWDC20] Embrace Swift Type Inference](https://woozzang.tistory.com/187)
 - [[WWDC21] ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
 ## General 🖥
+
+### Architecture & Design Patterns
+- [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
+
 ### 독서록
 - [객체지향의 사실과 오해](https://www.notion.so/99cfa573525e443199eac730d8c1c69f)
 - [실용주의 프로그래머](https://www.notion.so/8ee1da1f23e24487b56a999381613ce6)
