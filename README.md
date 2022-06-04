@@ -11,6 +11,7 @@
 
 ### Architecture & Design Patterns
 - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
+- [Adpater Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 
 ### 독서록
 - [객체지향의 사실과 오해](https://www.notion.so/99cfa573525e443199eac730d8c1c69f)
