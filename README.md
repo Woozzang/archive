@@ -7,6 +7,10 @@
 ### WWDC 스터디
 - [[WWDC20] Embrace Swift Type Inference](https://woozzang.tistory.com/187)
 - [[WWDC21] ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
+
+### Scripting
+- [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
+
 ## General 🖥
 
 ### Architecture & Design Patterns
