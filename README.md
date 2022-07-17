@@ -17,7 +17,6 @@
 - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - [Adpater Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
-- [Clean Architecture](https://www.notion.so/Clean-Architecture-b5e09598a1d4410a89052bf396e904dd)
 - [Delegation](https://www.notion.so/Delegation-d1abc25e5e764235bac971d741f7e5bf)
 
 ### 독서록
