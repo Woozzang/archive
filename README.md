@@ -5,6 +5,7 @@
 - [RxSwift](https://marsh-flavor-e1c.notion.site/RXSwift-29455410f754415a99dc5d85537a9385)
 - [Seoul Software Academy iOS Dev Bootcamp](https://github.com/Woozzang/ssac-bless-me)
 ### WWDC 스터디
+- [[WWDC18] iOS Memory Deep Dive](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
 - [[WWDC20] Embrace Swift Type Inference](https://woozzang.tistory.com/187)
 - [[WWDC21] ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
 
