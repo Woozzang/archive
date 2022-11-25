@@ -12,6 +12,7 @@
 - [[WWDC18] iOS Memory Deep Dive](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
 - [[WWDC20] Embrace Swift Type Inference](https://woozzang.tistory.com/187)
 - [[WWDC21] ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
+- [[WWDC21] Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
 
 ### Scripting
 - [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
