@@ -9,7 +9,7 @@
 
 - [Seoul Software Academy iOS Dev Bootcamp](https://github.com/Woozzang/ssac-bless-me)
 ### WWDC 스터디
-- [WWDC 16: Understanding Swift Performance](https://marsh-flavor-e1c.notion.site/WWDC-16-Understanding-Swift-Performance-b51aa78f5c16464789ea2706ce9b9293)
+- [✨ WWDC 16: Understanding Swift Performance](https://marsh-flavor-e1c.notion.site/WWDC-16-Understanding-Swift-Performance-b51aa78f5c16464789ea2706ce9b9293)
 - [WWDC 18: iOS Memory Deep Dive](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
 - [WWDC 20: Embrace Swift Type Inference](https://woozzang.tistory.com/187)
 - [WWDC 21: ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
