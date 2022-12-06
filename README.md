@@ -13,7 +13,7 @@
 - [WWDC 18: iOS Memory Deep Dive](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
 - [WWDC 20: Embrace Swift Type Inference](https://woozzang.tistory.com/187)
 - [WWDC 21: ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
-- [WWDC 21: Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
+- [✨ WWDC 21: Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
 - [WWDC 22: What’s new in UIKit](https://marsh-flavor-e1c.notion.site/WWDC22-What-s-new-in-UIKit-c5ec24525de5498cb0c764d4ec8299b5)
 
 ### Scripting
