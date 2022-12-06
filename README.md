@@ -1,5 +1,5 @@
 # archive 📚
-공부하며 작성한 문서 아카이브 
+학습하며 작성하는 문서들의 아카이브 
 ## iOS 🍎
 - [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
   - [🧵 Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
@@ -9,10 +9,12 @@
 
 - [Seoul Software Academy iOS Dev Bootcamp](https://github.com/Woozzang/ssac-bless-me)
 ### WWDC 스터디
-- [[WWDC18] iOS Memory Deep Dive](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
-- [[WWDC20] Embrace Swift Type Inference](https://woozzang.tistory.com/187)
-- [[WWDC21] ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
-- [[WWDC21] Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
+- [WWDC 16: Understanding Swift Performance](https://marsh-flavor-e1c.notion.site/WWDC-16-Understanding-Swift-Performance-b51aa78f5c16464789ea2706ce9b9293)
+- [WWDC 18: iOS Memory Deep Dive](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
+- [WWDC 20: Embrace Swift Type Inference](https://woozzang.tistory.com/187)
+- [WWDC 21: ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
+- [WWDC 21: Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
+- [WWDC 22: What’s new in UIKit](https://marsh-flavor-e1c.notion.site/WWDC22-What-s-new-in-UIKit-c5ec24525de5498cb0c764d4ec8299b5)
 
 ### Scripting
 - [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
@@ -20,6 +22,8 @@
 ## General 🖥
 
 ### Architecture & Design Patterns
+- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
+- [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
 - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - [Adpater Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
