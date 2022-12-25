@@ -19,18 +19,23 @@
 - [✨ WWDC 21: Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
 - [WWDC 22: What’s new in UIKit](https://marsh-flavor-e1c.notion.site/WWDC22-What-s-new-in-UIKit-c5ec24525de5498cb0c764d4ec8299b5)
 
-### Scripting
-- [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
-
 ## General 🖥
 
-### Architecture & Design Patterns
+### OOP
 - [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
 - [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
+
+### Design Patterns
 - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - [Adpater Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
 - [Delegation](https://www.notion.so/Delegation-d1abc25e5e764235bac971d741f7e5bf)
+
+### Dependency Injection
+-[Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
+
+### Scripting
+- [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
 
 ### 독서록
 - [객체지향의 사실과 오해](https://www.notion.so/99cfa573525e443199eac730d8c1c69f)
