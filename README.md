@@ -18,6 +18,7 @@
 - [WWDC 21: ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
 - [✨ WWDC 21: Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
 - [WWDC 22: What’s new in UIKit](https://marsh-flavor-e1c.notion.site/WWDC22-What-s-new-in-UIKit-c5ec24525de5498cb0c764d4ec8299b5)
+- [👉🏼 더보기](https://marsh-flavor-e1c.notion.site/WWDC-d86275dcf96a4b56a12d6d8a00527b1a)
 
 ## General 🖥
 
