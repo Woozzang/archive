@@ -32,7 +32,7 @@
 - [Delegation](https://www.notion.so/Delegation-d1abc25e5e764235bac971d741f7e5bf)
 
 ### Dependency Injection
--[Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
+- [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
 
 ### Scripting
 - [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
