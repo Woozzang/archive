@@ -43,7 +43,7 @@
 - [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
 
 ### Network
-- [HTTP/HTTPS](https://marsh-flavor-e1c.notion.site/HTTP-HTTPS-5f1df3301e584319b60050b34974395f)
+- [HTTP/ HTTPS](https://marsh-flavor-e1c.notion.site/HTTP-HTTPS-5f1df3301e584319b60050b34974395f)
 
 ### Scripting
 - [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
