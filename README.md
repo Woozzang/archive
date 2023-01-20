@@ -30,6 +30,8 @@
 </br>
 
 ## Design Patterns 🧱
+- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
+- [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
 - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - [Adpater Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
@@ -46,12 +48,6 @@
 - [HTTP 메서드 활용](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
 - [HTTP 상태코드](https://marsh-flavor-e1c.notion.site/HTTP-6da7a207a8234e7aa316507561a7c822)
 - [HTTP 헤더 - 일반헤더](https://marsh-flavor-e1c.notion.site/HTTP-6cbce129134d4404953682eedfc536be)
-
-</br>
-
-## OOP
-- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
-- [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
 
 </br>
 
