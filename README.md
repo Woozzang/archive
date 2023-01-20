@@ -2,7 +2,6 @@
 학습하며 작성하는 문서들의 아카이브 
 ### 최근 작성한 문서
 - [Copy on Write](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
-</br>
 
 ## iOS 🍎
 - [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
