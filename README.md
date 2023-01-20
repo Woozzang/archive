@@ -13,7 +13,9 @@
 - [SwiftUI](https://marsh-flavor-e1c.notion.site/SwiftUI-483788fdf4ec40698ea382c544f332a9)
 - [Modularization](https://marsh-flavor-e1c.notion.site/Modularization-3cb259b2e81c40e087db380973f1ee7a)
 
-### WWDC 스터디
+</br>
+
+## WWDC 👩🏻‍💻👨🏼‍💻
 - [WWDC 15: Optimizing Swift Performance](https://marsh-flavor-e1c.notion.site/WWDC-15-Optimizing-Swift-Performance-2474a309450d4b7f971cba6397224ead)
 - [✨ WWDC 16: Understanding Swift Performance](https://marsh-flavor-e1c.notion.site/WWDC-16-Understanding-Swift-Performance-b51aa78f5c16464789ea2706ce9b9293)
 - [WWDC 18: Understanding Crashes and Crash Logs](https://marsh-flavor-e1c.notion.site/WWDC-18-Understanding-Crashes-and-Crash-Logs-a9b508d0644d46a6b6aa1c56191e04b6)
@@ -25,22 +27,18 @@
 - [WWDC 22: Embrace Swift generics](https://marsh-flavor-e1c.notion.site/WWDC-22-Embrace-Swift-generics-6a0dbfb0f35e43dfbbeda1e389ce8b54)
 - [WWDC 22: What’s new in UIKit](https://marsh-flavor-e1c.notion.site/WWDC22-What-s-new-in-UIKit-c5ec24525de5498cb0c764d4ec8299b5)
 - [👉🏼 더보기](https://marsh-flavor-e1c.notion.site/WWDC-d86275dcf96a4b56a12d6d8a00527b1a)
+
 </br>
 
-### OOP
-- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
-- [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
-
-### Design Patterns
+## Design Patterns 🧱
 - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - [Adpater Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
 - [Delegation](https://www.notion.so/Delegation-d1abc25e5e764235bac971d741f7e5bf)
 
-### Dependency Injection
-- [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
+</br>
 
-## Network
+## Network 🕸
 ### HTTP/ HTTPS
 - [HTTP/ HTTPS](https://marsh-flavor-e1c.notion.site/HTTP-HTTPS-5f1df3301e584319b60050b34974395f)
 #### 모든 개발자를 위한 HTTP 웹 기본 지식
@@ -49,6 +47,19 @@
 - [HTTP 메서드 활용](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
 - [HTTP 상태코드](https://marsh-flavor-e1c.notion.site/HTTP-6da7a207a8234e7aa316507561a7c822)
 - [HTTP 헤더 - 일반헤더](https://marsh-flavor-e1c.notion.site/HTTP-6cbce129134d4404953682eedfc536be)
+
+</br>
+
+## OOP
+- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
+- [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
+
+</br>
+
+## General
+
+### Dependency Injection
+- [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
 
 ### Scripting
 - [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
