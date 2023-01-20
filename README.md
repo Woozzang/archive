@@ -27,9 +27,6 @@
 - [👉🏼 더보기](https://marsh-flavor-e1c.notion.site/WWDC-d86275dcf96a4b56a12d6d8a00527b1a)
 </br>
 
-
-## General 🖥
-
 ### OOP
 - [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
 - [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
@@ -43,8 +40,15 @@
 ### Dependency Injection
 - [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
 
-### Network
+## Network
+### HTTP/ HTTPS
 - [HTTP/ HTTPS](https://marsh-flavor-e1c.notion.site/HTTP-HTTPS-5f1df3301e584319b60050b34974395f)
+#### 모든 개발자를 위한 HTTP 웹 기본 지식
+- [HTTP 기본](https://marsh-flavor-e1c.notion.site/HTTP-c968cb084fc34ac2a6ec15371a144ae2)
+- [HTTP 메서드](https://marsh-flavor-e1c.notion.site/HTTP-fb7d716c047c459291c1e0b59b77cabc)
+- [HTTP 메서드 활용](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
+- [HTTP 상태코드](https://marsh-flavor-e1c.notion.site/HTTP-6da7a207a8234e7aa316507561a7c822)
+- [HTTP 헤더 - 일반헤더](https://marsh-flavor-e1c.notion.site/HTTP-6cbce129134d4404953682eedfc536be)
 
 ### Scripting
 - [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
