@@ -4,16 +4,16 @@
 - [Copy on Write](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
 
 ## iOS 🍎
+### Swift
 - [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
-  - [🧵Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
+- [Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
+### UI
 - [AutoLayout](https://marsh-flavor-e1c.notion.site/AutoLayout-7e7a62af283a4b3b8704dfb7afd84edb)
+- [SwiftUI](https://marsh-flavor-e1c.notion.site/SwiftUI-483788fdf4ec40698ea382c544f332a9)
+### Reactive Programming
 - [RxSwift](https://marsh-flavor-e1c.notion.site/RXSwift-29455410f754415a99dc5d85537a9385)
 - [Combine](https://marsh-flavor-e1c.notion.site/Combine-d43c52a20ec94082a5feb2e32f1bef28)
-- [SwiftUI](https://marsh-flavor-e1c.notion.site/SwiftUI-483788fdf4ec40698ea382c544f332a9)
-- [Modularization](https://marsh-flavor-e1c.notion.site/Modularization-3cb259b2e81c40e087db380973f1ee7a)
 ### Debugging 🐞
-
-
 </br>
 
 ## WWDC 👩🏻‍💻👨🏼‍💻
