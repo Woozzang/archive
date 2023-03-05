@@ -64,6 +64,7 @@
 ## General
 
 ### Languages
+- [Dart](https://marsh-flavor-e1c.notion.site/Dart-4bb8f6e167274a5eba9f6c4d5b53fd76)
 - [Ruby](https://marsh-flavor-e1c.notion.site/Ruby-3e118ee1e36b4936aea2cf4e5023a0e8)
 - [Shell](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
 
