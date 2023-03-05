@@ -46,6 +46,9 @@
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
 - [Delegation](https://www.notion.so/Delegation-d1abc25e5e764235bac971d741f7e5bf)
 
+### Dependency Injection
+- [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
+
 </br>
 
 ## Network 🕸
@@ -62,11 +65,9 @@
 
 ## General
 
-### Dependency Injection
-- [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
-
-### Scripting
-- [Linux Command Line](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
+### Languages
+- [Ruby](https://marsh-flavor-e1c.notion.site/Ruby-3e118ee1e36b4936aea2cf4e5023a0e8)
+- [Shell](https://marsh-flavor-e1c.notion.site/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
 
 ### 독서록
 - [객체지향의 사실과 오해](https://www.notion.so/99cfa573525e443199eac730d8c1c69f)
