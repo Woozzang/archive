@@ -59,6 +59,7 @@
 - [HTTP 메서드 활용](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
 - [HTTP 상태코드](https://marsh-flavor-e1c.notion.site/HTTP-6da7a207a8234e7aa316507561a7c822)
 - [HTTP 헤더 - 일반헤더](https://marsh-flavor-e1c.notion.site/HTTP-6cbce129134d4404953682eedfc536be)
+- [HTTP 헤더 - 캐시와 조건부 요청](https://marsh-flavor-e1c.notion.site/HTTP-f2b2767f86bb4685b745bbcae744a0c3)
 
 </br>
 
