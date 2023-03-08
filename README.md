@@ -5,19 +5,13 @@
 ### Swift
 - [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
 - [Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
-### UI
-- [AutoLayout](https://marsh-flavor-e1c.notion.site/AutoLayout-7e7a62af283a4b3b8704dfb7afd84edb)
-- [SwiftUI](https://marsh-flavor-e1c.notion.site/SwiftUI-483788fdf4ec40698ea382c544f332a9)
 ### Reactive Programming
 - [RxSwift](https://marsh-flavor-e1c.notion.site/RXSwift-29455410f754415a99dc5d85537a9385)
 - [Combine](https://marsh-flavor-e1c.notion.site/Combine-d43c52a20ec94082a5feb2e32f1bef28)
 ### Debugging 🐞
 - [Source Code Breakpoint](https://marsh-flavor-e1c.notion.site/Source-Code-Breakpoint-cf88ac5e3b09495fb79e0c3820bfbe0a)
-
 ### Third Party Libraries
 - [Cocoapods](https://marsh-flavor-e1c.notion.site/Cocoapods-77fb8b73cd774a29bce1030378101320)
-</br>
-
 ### iOS 톺아보기 스터디 🕵🏾🕵🏻‍♀️
 - [Hashable 에 대해 설명하시오.](https://marsh-flavor-e1c.notion.site/Hashable-1ef256a59f3b44cd96959c08e5c16931)
 - [mutating 에 대해 설명하시오.](https://marsh-flavor-e1c.notion.site/mutating-cfb4c525e27d4df99cccb43e08c6a573)
