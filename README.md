@@ -36,6 +36,7 @@
 - [✨ WWDC 20: Unsafe Swift](https://marsh-flavor-e1c.notion.site/WWDC-20-Unsafe-Swift-871ea5ef766640fc87fe1a9c65976fec)
 - [WWDC 21: ARC in Swift: Basics and beyond](https://woozzang.tistory.com/186)
 - [✨ WWDC 21: Meet async/await in Swift](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
+- [WWDC 21: Use async/await with URLSession](https://marsh-flavor-e1c.notion.site/WWDC-21-Use-async-await-with-URLSession-8c4e4dfdface412eace10bfaef773347)
 - [WWDC 22: Embrace Swift generics](https://marsh-flavor-e1c.notion.site/WWDC-22-Embrace-Swift-generics-6a0dbfb0f35e43dfbbeda1e389ce8b54)
 - [WWDC 22: What’s new in UIKit](https://marsh-flavor-e1c.notion.site/WWDC22-What-s-new-in-UIKit-c5ec24525de5498cb0c764d4ec8299b5)
 - [👉🏼 더보기](https://marsh-flavor-e1c.notion.site/WWDC-d86275dcf96a4b56a12d6d8a00527b1a)
