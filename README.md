@@ -19,6 +19,10 @@
   
 - [Combine](https://marsh-flavor-e1c.notion.site/Combine-d43c52a20ec94082a5feb2e32f1bef28)
   - [Publishers & Subscribers](https://www.notion.so/Publishers-Subscribers-cad5a2c4fad244369060d3537da3f33a?pvs=4)
+  - [Transforming Operators](https://www.notion.so/Transforming-Operators-f7f740e101d34c79bd7040b7a26d1b18?pvs=4)
+  - [Filtering Operators](https://marsh-flavor-e1c.notion.site/Filtering-Operators-eb3864c0357546559d163ad848f61567)
+  - [Combining Operators](https://www.notion.so/Combining-Operators-78e03ae25d36420fbcd229a1aa5c1e8a?pvs=4)
+  - [Time Manipulation Operators](https://marsh-flavor-e1c.notion.site/Time-Manipulation-Operators-89cec52fb23a44c1b9b1a8c4cc02d879)
 ### Debugging 🐞
 - [Source Code Breakpoint](https://marsh-flavor-e1c.notion.site/Source-Code-Breakpoint-cf88ac5e3b09495fb79e0c3820bfbe0a)
 ### Third Party Libraries
