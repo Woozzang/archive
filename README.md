@@ -23,6 +23,8 @@
   - [Filtering Operators](https://marsh-flavor-e1c.notion.site/Filtering-Operators-eb3864c0357546559d163ad848f61567)
   - [Combining Operators](https://www.notion.so/Combining-Operators-78e03ae25d36420fbcd229a1aa5c1e8a?pvs=4)
   - [Time Manipulation Operators](https://marsh-flavor-e1c.notion.site/Time-Manipulation-Operators-89cec52fb23a44c1b9b1a8c4cc02d879)
+  - [Sequence Operators](https://marsh-flavor-e1c.notion.site/Sequence-Operators-b4c5e03fb06e4aea9b3b40dabe662805)
+  
 ### Debugging 🐞
 - [Source Code Breakpoint](https://marsh-flavor-e1c.notion.site/Source-Code-Breakpoint-cf88ac5e3b09495fb79e0c3820bfbe0a)
 ### Third Party Libraries
