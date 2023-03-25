@@ -51,12 +51,14 @@
 </br>
 
 ## Design Patterns 🧱
-- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
-- [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
 - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - [Adpater Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
 - [Delegation](https://www.notion.so/Delegation-d1abc25e5e764235bac971d741f7e5bf)
+### 디자인 패턴에 뛰어들기
+- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
+- [OOP의 기둥](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
+- [SOLID 원칙들](https://marsh-flavor-e1c.notion.site/SOLID-9eb5f0045d554f309f3e30c85addcf65)
 
 ### Dependency Injection
 - [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
