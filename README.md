@@ -2,13 +2,14 @@
 학습하고 작성한 문서들의 아카이브 
 
 ## iOS 🍎
-### Swift
-- [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
-  - [Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
-  - [Metatype](https://marsh-flavor-e1c.notion.site/Metatype-8b61510140f1431785922cff8049251d)
-  - [Existential Type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)
-  - [Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)
-  - [Any](https://marsh-flavor-e1c.notion.site/Any-c689170fa2af430e9970959638e06bc9)
+### [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
+Types|Concurrency|Optimization Tips
+:--:|:--:|:--:
+[Existential Type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)|[Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)|[COW](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
+[Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)| |[WMO](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
+[Metatype](https://marsh-flavor-e1c.notion.site/Metatype-8b61510140f1431785922cff8049251d)
+[Any](https://marsh-flavor-e1c.notion.site/Any-c689170fa2af430e9970959638e06bc9)
+  
   
 ### Reactive Programming
 - [RxSwift](https://marsh-flavor-e1c.notion.site/RXSwift-29455410f754415a99dc5d85537a9385)
