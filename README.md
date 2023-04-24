@@ -6,6 +6,8 @@
 - [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
   - [Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
   - [Metatype](https://marsh-flavor-e1c.notion.site/Metatype-8b61510140f1431785922cff8049251d)
+  - [Existential Type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)
+  - [Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)
   - [Any](https://marsh-flavor-e1c.notion.site/Any-c689170fa2af430e9970959638e06bc9)
   
 ### Reactive Programming
