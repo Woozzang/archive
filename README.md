@@ -10,7 +10,13 @@ Type System|Concurrency|Optimization Tips
 [Metatype](https://marsh-flavor-e1c.notion.site/Metatype-8b61510140f1431785922cff8049251d)
 [Hashable](https://marsh-flavor-e1c.notion.site/Hashable-1ef256a59f3b44cd96959c08e5c16931)
 [Static Type, Dynamic Type](https://marsh-flavor-e1c.notion.site/type-of-c9fbd14ffb0a46658ce1bf700171a710)
-  
+
+</br>
+
+Swift Standard Library|swift/docs
+:-:|:-:
+[Strings and Characters](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)|[Writing High-Performance Swift Code](https://marsh-flavor-e1c.notion.site/Writing-High-Performance-Swift-Code-ec52bb69d51d440cae10e66e0cf73628)
+[Copy on Write](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
   
 ### Reactive Programming
 - [RxSwift](https://marsh-flavor-e1c.notion.site/RXSwift-29455410f754415a99dc5d85537a9385)
