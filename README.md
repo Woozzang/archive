@@ -6,9 +6,10 @@
 Types|Concurrency|Optimization Tips
 :--:|:--:|:--:
 [Existential Type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)|[Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)|[COW](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
-[Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)| |[WMO](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
+[Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)| [GCD](https://marsh-flavor-e1c.notion.site/GCD-ec2f2a47065040a4841e82bbdea64d1b) |[WMO](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
 [Metatype](https://marsh-flavor-e1c.notion.site/Metatype-8b61510140f1431785922cff8049251d)
-[Any](https://marsh-flavor-e1c.notion.site/Any-c689170fa2af430e9970959638e06bc9)
+[Hashable](https://marsh-flavor-e1c.notion.site/Hashable-1ef256a59f3b44cd96959c08e5c16931)
+[Static Type, Dynamic Type](https://marsh-flavor-e1c.notion.site/type-of-c9fbd14ffb0a46658ce1bf700171a710)
   
   
 ### Reactive Programming
