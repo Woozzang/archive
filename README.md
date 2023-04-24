@@ -1,26 +1,39 @@
 # archive 📚
-학습하고 작성한 문서들의 아카이브 
+학습한 문서들의 기록.
 
-## iOS 🍎
-### [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
+## Swift
 
-Swift Standard Library|swift/docs|Type System|Concurrency
-:-:|:-:|:--:|:--:
-[Strings and Characters](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)|[Writing High-Performance Swift Code](https://marsh-flavor-e1c.notion.site/Writing-High-Performance-Swift-Code-ec52bb69d51d440cae10e66e0cf73628)|[Existential Type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)|[Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
-[Copy on Write](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16) | | [Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)| [GCD](https://marsh-flavor-e1c.notion.site/GCD-ec2f2a47065040a4841e82bbdea64d1b)
-[Hashable](https://marsh-flavor-e1c.notion.site/Hashable-1ef256a59f3b44cd96959c08e5c16931) | |[Static Type, Dynamic Type](https://marsh-flavor-e1c.notion.site/type-of-c9fbd14ffb0a46658ce1bf700171a710)
- | | |[Metatype](https://marsh-flavor-e1c.notion.site/Metatype-8b61510140f1431785922cff8049251d)
-  
-### Reactive Programming
-- [RxSwift](https://marsh-flavor-e1c.notion.site/RXSwift-29455410f754415a99dc5d85537a9385)
+#### Swift Standard Library
+- [Strings and Characters](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)
+- [Copy on Write](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
+- [Hashable](https://marsh-flavor-e1c.notion.site/Hashable-1ef256a59f3b44cd96959c08e5c16931)
+#### Type System
+- [Existential Type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)
+- [Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)
+- [Static Type, Dynamic Type](https://marsh-flavor-e1c.notion.site/type-of-c9fbd14ffb0a46658ce1bf700171a710)
+- [Metatype](https://marsh-flavor-e1c.notion.site/Metatype-8b61510140f1431785922cff8049251d)
+#### Foundation
+- [NSCache](https://marsh-flavor-e1c.notion.site/NSCache-db4e893409474d6ab163e0d1bcdff9aa)
+#### Concurrency
+- [Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)
+- [GCD](https://marsh-flavor-e1c.notion.site/GCD-ec2f2a47065040a4841e82bbdea64d1b)
+#### swift/docs
+- [Writing High-Performance Swift Code](https://marsh-flavor-e1c.notion.site/Writing-High-Performance-Swift-Code-ec52bb69d51d440cae10e66e0cf73628)
+#### [👉 전체 보기](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
+</br>
+
+## Reactive Programming
+### RxSwift
   - [SubscribeOn vs ObserveOn](https://marsh-flavor-e1c.notion.site/SubscribeOn-vs-ObserveOn-36418970644b4af0a598056f1111d323)
   - [Sharing Subscription](https://marsh-flavor-e1c.notion.site/KxCoding-Mastering-RxSwift-6df4fb4fabde4246a777034472022413?pvs=4#6aa4f933296b41d7b8f1c00d7a4e99b8)
   - [Driver vs Signal](https://marsh-flavor-e1c.notion.site/Driver-vs-Signal-da8b86072bd6486f97f32567d1e2eb27)
   - [combineLatest vs withLatestFrom](https://marsh-flavor-e1c.notion.site/combineLatest-vs-withLatestFrom-f23db536e88e48cdb95bccf2c13612fc)
   - [Hot Observables vs Cold Observables](https://marsh-flavor-e1c.notion.site/Hot-Observables-vs-Cold-Observables-712335e1cc0246aab442e8713645620e)
   - [Schedulers](https://marsh-flavor-e1c.notion.site/Schedulers-a567842a83d0436ca0ecfca7e8ce1461)
+#### [👉 전체 보기](https://marsh-flavor-e1c.notion.site/RXSwift-29455410f754415a99dc5d85537a9385)
+</br>
   
-- [Combine](https://marsh-flavor-e1c.notion.site/Combine-d43c52a20ec94082a5feb2e32f1bef28)
+### Combine
   - [Publishers & Subscribers](https://www.notion.so/Publishers-Subscribers-cad5a2c4fad244369060d3537da3f33a?pvs=4)
   - [Transforming Operators](https://www.notion.so/Transforming-Operators-f7f740e101d34c79bd7040b7a26d1b18?pvs=4)
   - [Filtering Operators](https://marsh-flavor-e1c.notion.site/Filtering-Operators-eb3864c0357546559d163ad848f61567)
@@ -28,15 +41,8 @@ Swift Standard Library|swift/docs|Type System|Concurrency
   - [Time Manipulation Operators](https://marsh-flavor-e1c.notion.site/Time-Manipulation-Operators-89cec52fb23a44c1b9b1a8c4cc02d879)
   - [Sequence Operators](https://marsh-flavor-e1c.notion.site/Sequence-Operators-b4c5e03fb06e4aea9b3b40dabe662805)
   - [Networking](https://marsh-flavor-e1c.notion.site/Networking-812c9fde269e41b5bb16fac12651f62b)
-  
-### Debugging 🐞
-- [Source Code Breakpoint](https://marsh-flavor-e1c.notion.site/Source-Code-Breakpoint-cf88ac5e3b09495fb79e0c3820bfbe0a)
-### Third Party Libraries
-- [Cocoapods](https://marsh-flavor-e1c.notion.site/Cocoapods-77fb8b73cd774a29bce1030378101320)
-- [ReactorKit](https://marsh-flavor-e1c.notion.site/ReactorKit-2619835a3ed0464a8294ec72d7044210)
-### iOS 톺아보기 스터디 🕵🏾🕵🏻‍♀️
-- [Hashable 에 대해 설명하시오.](https://marsh-flavor-e1c.notion.site/Hashable-1ef256a59f3b44cd96959c08e5c16931)
-- [mutating 에 대해 설명하시오.](https://marsh-flavor-e1c.notion.site/mutating-cfb4c525e27d4df99cccb43e08c6a573)
+#### [👉 전체 보기](https://marsh-flavor-e1c.notion.site/Combine-d43c52a20ec94082a5feb2e32f1bef28)
+</br>
 
 ## WWDC 👩🏻‍💻👨🏼‍💻
 - [WWDC 15: Optimizing Swift Performance](https://marsh-flavor-e1c.notion.site/WWDC-15-Optimizing-Swift-Performance-2474a309450d4b7f971cba6397224ead)
@@ -50,8 +56,16 @@ Swift Standard Library|swift/docs|Type System|Concurrency
 - [WWDC 21: Use async/await with URLSession](https://marsh-flavor-e1c.notion.site/WWDC-21-Use-async-await-with-URLSession-8c4e4dfdface412eace10bfaef773347)
 - [WWDC 22: Embrace Swift generics](https://marsh-flavor-e1c.notion.site/WWDC-22-Embrace-Swift-generics-6a0dbfb0f35e43dfbbeda1e389ce8b54)
 - [WWDC 22: What’s new in UIKit](https://marsh-flavor-e1c.notion.site/WWDC22-What-s-new-in-UIKit-c5ec24525de5498cb0c764d4ec8299b5)
-- [👉🏼 더보기](https://marsh-flavor-e1c.notion.site/WWDC-d86275dcf96a4b56a12d6d8a00527b1a)
+#### [👉 전체 보기](https://marsh-flavor-e1c.notion.site/WWDC-d86275dcf96a4b56a12d6d8a00527b1a)
+</br>
 
+## Debugging 🐞
+- [Source Code Breakpoint](https://marsh-flavor-e1c.notion.site/Source-Code-Breakpoint-cf88ac5e3b09495fb79e0c3820bfbe0a)
+</br>
+
+## Third Party Libraries
+- [Cocoapods](https://marsh-flavor-e1c.notion.site/Cocoapods-77fb8b73cd774a29bce1030378101320)
+- [ReactorKit](https://marsh-flavor-e1c.notion.site/ReactorKit-2619835a3ed0464a8294ec72d7044210)
 </br>
 
 ## Design Patterns 🧱
@@ -66,7 +80,6 @@ Swift Standard Library|swift/docs|Type System|Concurrency
 
 ### Dependency Injection
 - [Notion Page](https://marsh-flavor-e1c.notion.site/Dependency-Injection-1c2ecc98ec754b3b9251513865f4d03b)
-
 </br>
 
 ## Network 🕸
