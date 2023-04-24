@@ -3,7 +3,7 @@
 
 ## iOS 🍎
 ### [Swift](https://marsh-flavor-e1c.notion.site/Swift-ca78480ec0934dd7ae2553cab74e32e9)
-Types|Concurrency|Optimization Tips
+Type System|Concurrency|Optimization Tips
 :--:|:--:|:--:
 [Existential Type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)|[Modern Concurrency](https://marsh-flavor-e1c.notion.site/Concurrency-4d7aa5ae54994b3989119a5d4bdea87a)|[COW](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
 [Opaque Type](https://marsh-flavor-e1c.notion.site/Opaque-Type-368aa26a9acd4218b2f5bb83da383e50)| [GCD](https://marsh-flavor-e1c.notion.site/GCD-ec2f2a47065040a4841e82bbdea64d1b) |[WMO](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
