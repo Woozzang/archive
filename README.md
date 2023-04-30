@@ -1,5 +1,5 @@
 # archive 📚
-학습한 문서들의 기록.
+Hello! This is an archive where I record what I have studied.
 
 ## Swift
 
