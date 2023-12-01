@@ -71,6 +71,7 @@ Hello! This is an archive where I record what I have studied.
 
 ## Debugging 🐞
 - [Source Code Breakpoint](https://marsh-flavor-e1c.notion.site/Source-Code-Breakpoint-cf88ac5e3b09495fb79e0c3820bfbe0a)
+- [LLDB](https://marsh-flavor-e1c.notion.site/LLDB-6db9ddbd865349e4b7816d91a2c6e488?pvs=4)
 </br>
 
 ## Third Party Libraries
